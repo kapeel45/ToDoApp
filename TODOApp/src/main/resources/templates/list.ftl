@@ -30,7 +30,7 @@
                         <div class="form-group col-md-12">
                             <label class="col-md-2 control-lable" for="salary">Task Status</label>
                             <div class="col-md-7">
-                                <input type="text" ng-model="ctrl.user.todoTaskStatus" id="salary" class="form-control input-sm" placeholder="Enter todo Status."/>
+                                <input type="text" ng-model="ctrl.user.todoTaskStatus" id="salary" class="form-control input-sm" placeholder="Enter todo Status.(Optional: ByDefailt: PENDING)"/>
                             </div>
                         </div>
                     </div>
