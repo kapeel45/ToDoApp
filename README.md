@@ -8,3 +8,8 @@ DB h2 (in Memory)
 access: http://localhost:8080/h2-console
 username: sa
 password:
+
+
+Client Side:
+Angular JS 1.x
+Used CDN Link hence need internet to reflect UI properly.
