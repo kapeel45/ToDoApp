@@ -10,7 +10,7 @@ public class ToDoAppController {
 
 	@RequestMapping("/")
     String home(ModelMap modal) {
-        modal.addAttribute("title","CRUD Example");
+        modal.addAttribute("title","ToDo Task App");
         return "index";
     }
  
